@@ -61,6 +61,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Enums\MovieFormat.cs" />
     <Compile Include="Worker\IMiningAgent.cs" />
     <Compile Include="Worker\MiningAgent.cs" />
     <EmbeddedResource Include="MainMenu.resx">
